@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tours>
+<tour id="1">
+<title>alpenism</title>
+<picture>../img/alpenizm.png</picture>
+<cost>1700-2300</cost>
+</tour>
+<tour id="2">
+<title>nepal</title>
+<picture>../img/nepalm.png</picture>
+<cost>7800-8300</cost>
+</tour>
+<tour id="3">
+<title>avatar</title>
+<picture>../img/avatarm.png</picture>
+<cost>500-1500</cost>
+</tour>
+<tour id="4">
+<title>borabora</title>
+<picture>../img/boraboramain.png</picture>
+<cost>2300-4300</cost>
+</tour>
+<tour id="5">
+<title>karpats</title>
+<picture>../img/karpatsm.png</picture>
+<cost>350-600</cost>
+</tour>
+<tour id="6">
+<title>shale</title>
+<picture>../img/shalem.png</picture>
+<cost>750-1400</cost>
+</tour>
+<tour id="7">
+<title>cempfiord</title>
+<picture>../img/cempfiordm.png</picture>
+<cost>70-450</cost>
+</tour>
+<tour id="8">
+<title>lofotens</title>
+<picture>../img/lofotensm.png</picture>
+<cost>100-250</cost>
+</tour>
+</tours>
